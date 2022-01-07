@@ -42,6 +42,6 @@ If you have any questions on this project:
 Visit my [profile](https://github.com/Caeldeth) to see more great projects!
   
 ## Screenshots
-Click the image or [here](https://watch.screencastify.com/v/U5o66a08VC5ezzX8cApp) to see the video walkthrough
+Click the image or [here](https://watch.screencastify.com/v/IEFMqmBIHpiyBEqGWoYd) to see the video walkthrough
 [![Main page](./images/e-spine.gif)](https://watch.screencastify.com/v/U5o66a08VC5ezzX8cApp "e-spine Walkthrough")
 
